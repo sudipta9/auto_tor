@@ -15,7 +15,7 @@
 1. Write those commands in your terminal one by one
 
    ```
-   git clone
+   git clone https://github.com/sudipta9/auto_tor.git
    cd auto_tor
    python3 auto_tor.py
    ```
@@ -30,3 +30,19 @@
 2. Enetr Socket Host as `127.0.0.1` and port as `9050`.
 3. Check `SOCKS v5`
 4. Check `Proxy DNS when using SOCKS v5` at the Bottom
+
+<br/>
+
+## Follow me on
+
+<br/>
+<a href="https://twitter.com/SudiptaPradha20">
+  <img align="left" alt="Sudipta Twitter| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.instagram.com/_dustusp_/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://github.com/sudipta9">
+  <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/github.svg" />
+</a>
+<br/>
